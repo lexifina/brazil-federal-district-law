@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 405, DE 05 DE NOVEMBRO DE 2001
+DODF DE 06.11.2001
+Altera a Lei Complementar n° 352, de 9 de janeiro de 2001 que "Destina área para implantação do Centro Olímpico Joaquim Cruz em Taguatinga."
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
