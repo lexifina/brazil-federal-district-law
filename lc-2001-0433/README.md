@@ -1,0 +1,11 @@
+# Lei Complementar nº 433, de 27/12/2001 (Altera a Lei Complementar n° 369, de 19 de fevereiro de 2001, que dispõe sobre a concessão de isenções no pagamento das taxas que especifica.)
+
+LC 433/2001 · 1 versions, from 2001-12-28 (latest in force: 2001-12-28) · <https://www.sinj.df.gov.br/sinj/DetalhesDeNorma.aspx?id_norma=52260>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1° | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2° | [art-0002.md](art-0002.md) | 0 |  |
+| Art. 3° | [art-0003.md](art-0003.md) | 0 |  |
+| Art. 4° | [art-0004.md](art-0004.md) | 0 |  |

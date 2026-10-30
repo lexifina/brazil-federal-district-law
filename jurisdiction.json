@@ -1,0 +1,8 @@
+{
+  "path": "br-df",
+  "code": "BR-DF",
+  "name": "Distrito Federal",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-federal-district-law",
+  "build": "built: the Leis Complementares of the Distrito Federal, from SINJ-DF"
+}
